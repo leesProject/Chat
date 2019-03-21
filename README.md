@@ -7,5 +7,4 @@
 
 ・システム開発環境
 
-　　Java
-    MySql
+　　Java、MySql
